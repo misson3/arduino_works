@@ -12,5 +12,5 @@ Nov 09, 2020
 
 Feb 23, 2021
 
-[GPSを使って目的地の方向と直線距離を表示する]()
+[GPSを使って目的地の方向と直線距離を表示する](https://makeintoshape.com/gps-direction-pointer/)
 
