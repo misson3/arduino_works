@@ -14,3 +14,11 @@ Feb 23, 2021
 
 [GPSを使って目的地の方向と直線距離を表示する](https://makeintoshape.com/gps-direction-pointer/)
 
+
+
+## Wii nunchuk scroller
+
+Jun 20, 2021
+
+Wiiヌンチャクでずぼらwebブラウジング
+
