@@ -22,3 +22,10 @@ Jun 20, 2021
 
 [Wiiヌンチャクでずぼらwebブラウジング](https://makeintoshape.com/wii-nunchuk-scroller/)
 
+
+
+## FSR (Force Sensitive Resistor)  on pedal
+
+Dec05, 2021
+
+Accel pedalへの踏み込み度を表示しようという試み。今となっては使い道がなさそうだったCircuitplayground classicを使い、Neopixelの数で度合いを表す。
