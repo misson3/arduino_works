@@ -14,6 +14,10 @@ Feb 23, 2021
 
 [GPSを使って目的地の方向と直線距離を表示する](https://makeintoshape.com/gps-direction-pointer/)
 
+May28, 2022
+
+[あのGPSガジェットを拡張：bluetooth経由で目的地をad hocにセットできるようにした](https://makeintoshape.com/adhocloc/)
+
 
 
 ## Wii nunchuk scroller
