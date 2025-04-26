@@ -30,7 +30,7 @@ esp32-s3-circuitpython-codesフォルダにQt Py ESP32-S3用のcircuitpython cod
 
 
 
-## Wii nunchuk scroller
+## Wii nunchuck scroller
 
 Jun 20, 2021
 
@@ -46,11 +46,11 @@ Accel pedalへの踏み込み度を表示しようという試み。今となっ
 
 
 
-## Wii nunchuk mouse
+## Wii nunchuck mouse
 
 Apr 26, 2025
 
-[Wiiヌンチャクでずぼらwebブラウジング２](https://makeintoshape.com/wii-nunchuk-mouse/)
+[Wiiヌンチャクでずぼらwebブラウジング２](https://makeintoshape.com/wii-nunchuck-mouse/)
 
-- Wii nunchukでマウスカーソルを動かす
-- 画面スクロール（up down arrow key）
+- Wii nunchuckでマウスカーソルを動かす
+- 画面スクロール
