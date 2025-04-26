@@ -43,3 +43,14 @@ Jun 20, 2021
 Dec05, 2021
 
 Accel pedalへの踏み込み度を表示しようという試み。今となっては使い道がなさそうだったCircuitplayground classicを使い、Neopixelの数で度合いを表す。
+
+
+
+## Wii nunchuk mouse
+
+Apr 26, 2025
+
+Wiiヌンチャクでずぼらwebブラウジング２
+
+- Wii nunchukでマウスカーソルを動かす
+- 画面スクロール（up down arrow key）
