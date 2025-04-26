@@ -27,11 +27,11 @@ int y_rest = 136;
 
 
 void setup() {
-	Serial.begin(115200);
-	nunchuck.begin();
-	if (nunchuck.type == Unknown) {
-		nunchuck.type = NUNCHUCK;
-	}
+  Serial.begin(115200);
+  nunchuck.begin();
+  if (nunchuck.type == Unknown) {
+    nunchuck.type = NUNCHUCK;
+  }
 }
 
 
