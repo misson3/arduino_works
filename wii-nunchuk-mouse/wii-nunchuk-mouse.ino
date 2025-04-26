@@ -7,7 +7,6 @@ https://docs.arduino.cc/language-reference/en/functions/usb/Keyboard/keyboardMod
 */
 
 #include <Mouse.h>
-#include <Keyboard.h>
 #include <WiiChuck.h>
 
 Accessory nunchuck;
@@ -69,7 +68,7 @@ void loop() {
 
   // mouse cursor move
   int x_dist = read_to_mapped_dist(xReading, x_rest, x_min, x_max);
-  int y_dist = read_to_mapped_dist(yReading, y_rest, y_min, y_max) * (-1);  // 反転必要
+  int y_dist = read_to_mapped_dist(yReading, y_rest, y_min, y_max) * (-1);
   Serial.print("mapped_distances: ("); 
   Serial.print(x_dist);
   Serial.print(", "); 
@@ -85,15 +84,13 @@ void loop() {
   {
     if (y_dist > 0)
     {
-      //Mouse.move(0, 0, 1);  //DOWN. still too fast. use arrow key press instead
-      Keyboard.press(KEY_DOWN_ARROW);
-      Keyboard.releaseAll();
+      Mouse.move(0, 0, -1);
+      delay(20);
     }
     else if (y_dist < 0)
     {
-      //Mouse.move(0, 0, -1); // UP. still too fast
-      Keyboard.press(KEY_UP_ARROW);
-      Keyboard.releaseAll();
+      Mouse.move(0, 0, 1);
+      delay(20);
     }
   }
 
