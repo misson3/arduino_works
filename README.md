@@ -50,7 +50,7 @@ Accel pedalへの踏み込み度を表示しようという試み。今となっ
 
 Apr 26, 2025
 
-Wiiヌンチャクでずぼらwebブラウジング２
+[Wiiヌンチャクでずぼらwebブラウジング２](https://makeintoshape.com/wii-nunchuk-mouse/)
 
 - Wii nunchukでマウスカーソルを動かす
 - 画面スクロール（up down arrow key）
